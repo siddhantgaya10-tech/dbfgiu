@@ -1,0 +1,9 @@
+{
+  "name": "balumafia-store",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": { "dev": "tsx scripts/dev.ts", "build": "tsx scripts/build.ts" },
+  "dependencies": { "react": "^19.2.8", "react-dom": "^19.2.8" },
+  "devDependencies": { "esbuild": "^0.25.0", "typescript": "^7.0.2", "tsx": "^4.23.13" }
+}
